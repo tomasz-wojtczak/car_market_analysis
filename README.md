@@ -11,10 +11,6 @@ The project uses three datasets:
 - S&P Global Mobility, published by ACEA – market segment data
 - Best-selling-cars.com – annual bestselling model sales
 - Wikipedia – vehicle generation and segment classification
-Data sources:
-- ACEA
-- Best-selling-cars.com
-- Wikipedia
 ## Technologies
 - Python
 - Pandas
@@ -34,7 +30,7 @@ car_market_analysis/
 ├── data/
 ├── car_market_analysis.ipynb
 ├── README.md
-└── .gitignoree
+└── .gitignore
 ```
 ## How to run
 1. Clone the repository.
