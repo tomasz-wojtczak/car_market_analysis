@@ -30,9 +30,11 @@ Data sources:
 - Changes among the Top 10 bestselling models reflected some major market trends, but their magnitude and timing differed from those observed in the overall market.
 ## Repository structure
 ```text
-data/
-notebooks/
-README.md
+car_market_analysis/
+├── data/
+├── car_market_analysis.ipynb
+├── README.md
+└── .gitignoree
 ```
 ## How to run
 1. Clone the repository.
@@ -41,5 +43,5 @@ README.md
     - numpy
     - matplotlib 
     - jupyter 
-3. Open the Jupyter Notebook located in the `notebooks/` directory.
+3. Open `car_market_analysis.ipynb`.
 4. Run all cells in order.
